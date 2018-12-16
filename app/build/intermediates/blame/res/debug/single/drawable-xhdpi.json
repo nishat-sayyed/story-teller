@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page4.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\drawable-xhdpi\\page4.png"
+    },
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page0.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\drawable-xhdpi\\page0.png"
+    },
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page2.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\drawable-xhdpi\\page2.png"
+    },
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page5.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\drawable-xhdpi\\page5.png"
+    },
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page3.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\drawable-xhdpi\\page3.png"
+    },
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_title.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\drawable-xhdpi\\main_title.png"
+    },
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page6.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\drawable-xhdpi\\page6.png"
+    },
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page1.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\drawable-xhdpi\\page1.png"
+    }
+]

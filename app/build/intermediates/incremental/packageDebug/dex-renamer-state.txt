@@ -1,0 +1,7 @@
+#Sat Mar 18 11:56:50 IST 2017
+base.0=E\:\\StoryTeller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b63fc8a77ca72e71fb5086ac960350533bfc3845
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\StoryTeller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e58f4063eeb355d44f344796f19baac640259a5e\\classes.dex
+base.1=E\:\\StoryTeller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e58f4063eeb355d44f344796f19baac640259a5e
+file.0=E\:\\StoryTeller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b63fc8a77ca72e71fb5086ac960350533bfc3845\\classes.dex

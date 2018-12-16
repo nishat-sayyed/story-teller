@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\StoryTeller\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\mars.png",
+        "source": "E:\\StoryTeller\\app\\src\\main\\res\\mipmap-xhdpi\\mars.png"
+    }
+]

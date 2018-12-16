@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5c1ffe697541102aec26df428ae1f816f8fdc75">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e58f4063eeb355d44f344796f19baac640259a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b0cdb2b4d6eabec06bbb84012cbd691f1131c26d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9680e8118313aed1da053169a1ec2b68806b07d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a0d64e9f7fc9c21cd62cee0adec2549b9b2f81c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a14751acb0d544ddc7128efb184c4d77188dc17">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b63fc8a77ca72e71fb5086ac960350533bfc3845\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a3bc3ecc4c205f2bf59fb49faeac3904064d25b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d0de39d24ef1927cbc6278fa9e4bd07e282db72d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bdd84004d85aaebbd0998f0367be57073eb021f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_048e081cad15e19b7569152fe4bbbad095b2d491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_df078a65cb35f8dbb7474790a69cebd5dd943534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6feaa5162017fc44c5a564daee82d3154317e57a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_31ee2d1d7965a3ca1234e5e369570bcf5c8304fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_7ac68956411eea843fdc2a24d8506065ac2a4b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programming\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_8592d6368fec10041a866e98d6bfc9152049b93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d5faf7c7b13ae50a9f8e468277c72473a911fb31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_455977b52e963c76827b87d933b692c3cfa3897a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\StoryTeller\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\StoryTeller\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fa10990ae573aae06ab2b457958cb6c734d80b1f\classes.dex" />
+    </item>
+
+</items>
